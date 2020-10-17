@@ -1,6 +1,6 @@
 # pythonproject
 
-This is an application of Restaurant Management Systems built using Python and Tkinter library.
+This is an application of Restaurant Management Systems built using Python and Tkinter library. It calculates amount of all purchased items along with a calvulator application as well
 
 ![image](https://user-images.githubusercontent.com/55539590/95012722-839e2400-0658-11eb-88a5-b760295e7350.png)
 
